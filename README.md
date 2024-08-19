@@ -1,6 +1,6 @@
 ﻿# Yolo Regional Customer Count
 ### Use case 
-Custmer engagement on a particular dress section
+Customer engagement on a particular dress section
 
 
 ### Obejct Detection model used 
