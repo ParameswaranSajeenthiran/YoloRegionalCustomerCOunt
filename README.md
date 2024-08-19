@@ -7,5 +7,5 @@ Custmer engagement on a particular dress section
 Yolo v8 
 
 
-https://github.com/user-attachments/assets/5c67b60d-ea43-4ebc-aef5-4bbcbe6292ad
+https://github.com/user-attachments/assets/f984a6f3-da0e-43ed-9a3b-44ec84fd876c
 
