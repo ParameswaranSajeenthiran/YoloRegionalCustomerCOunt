@@ -1,4 +1,4 @@
-﻿# YoloRegionalCustomerCount
+﻿# Yolo Regional Customer Count
 ### Use case 
 Custmer engagement on a particular dress section
 
